@@ -14,7 +14,7 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 
 * __gosecco__ - a library for parsing and managing SECCOMP BPF rules ([repo](https://github.com/twtiger/gosecco))
 * __gotk3adapter__ - adapters and interfaces for [gotk3](https://github.com/gotk3/gotk3) in order to make testing possible ([repo]())
-* __otr3__: Go implementation of OTR version 3 protocol, with libotr 4.1.0 feature parity ([repo](https://github.com/twstrike/otr3)
+* __otr3__: Go implementation of OTR version 3 protocol, with libotr 4.1.0 feature parity ([repo](https://github.com/twstrike/otr3))
 * __otr4__: Go implementation of OTR version 4 protocol ([repo](https://github.com/twtiger/otr4))
 
 

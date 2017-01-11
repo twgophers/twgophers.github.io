@@ -12,7 +12,7 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 
 ## Libraries
 
-* __gosecco__ - a library for parsing and managing SECCOMP BPF rules ([repo](https://github.com/twtiger/gosecco))
+* __gosecco__ - a library for parsing and managing [seccomp](https://en.wikipedia.org/wiki/Seccomp) BPF rules ([repo](https://github.com/twtiger/gosecco))
 * __gotk3adapter__ - adapters and interfaces for [gotk3](https://github.com/gotk3/gotk3) in order to make testing possible ([repo]())
 * __otr3__: Go implementation of OTR version 3 protocol, with libotr 4.1.0 feature parity ([repo](https://github.com/twstrike/otr3))
 * __otr4__: Go implementation of OTR version 4 protocol ([repo](https://github.com/twtiger/otr4))
@@ -21,4 +21,4 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 ## Learning
 
 * __nameserver__: toy DNS server for learning purposes ([repo](https://github.com/twtiger/nameserver))
-* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _Note: [pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._ 
+* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _ [Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._ 

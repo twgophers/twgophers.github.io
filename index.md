@@ -1,6 +1,6 @@
 # TW Gophers
 
-Open source projects written in Go (#golang) with [__Thought__Works](https://www.thoughtworks.com/) contributors. _This is not a comprehensive list_.
+Open source projects written in Go (#golang) with [__ThoughtWorks__](https://www.thoughtworks.com/) contributors. _This is not a comprehensive list_.
 
 Please send pull requests to this [Github pages repo](https://github.com/twgophers/twgophers.github.io) to make it more complete and up-to-date.
 

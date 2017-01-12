@@ -22,4 +22,4 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 ## Learning
 
 * __nameserver__: toy DNS server for learning purposes ([repo](https://github.com/twtiger/nameserver))
-* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _ [Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._
+* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _[Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._

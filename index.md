@@ -7,6 +7,7 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 ## Applications
 
 * [__coyim__](https://coy.im) - a safe and secure chat client ([repo](https://github.com/twstrike/coyim))
+* [__Gauge__](http://getgauge.io/) - light weight cross-platform test automation ([repo](https://github.com/getgauge/gauge))
 * [__Talisman__](https://thoughtworks.github.io/talisman/) - git pre-push hook tool to scan code for possible leaked SSH keys, authorization tokens, private keys etc. ([repo](https://github.com/thoughtworks/talisman))
 
 
@@ -21,4 +22,4 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 ## Learning
 
 * __nameserver__: toy DNS server for learning purposes ([repo](https://github.com/twtiger/nameserver))
-* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _ [Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._ 
+* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _ [Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._

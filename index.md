@@ -23,3 +23,11 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 
 * __nameserver__: toy DNS server for learning purposes ([repo](https://github.com/twtiger/nameserver))
 * [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _[Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._
+* __collections__: Collections in Go that are used for data science projects ([repo(https://github.com/twgophers/collections))
+* __linalg__: Basic linear algebra operations with vectors and matrices ([repo(https://github.com/twgophers/linalg))
+* __statistics__: A golang lib which implements the statistics chapter of data science from scratch ([repo(https://github.com/twgophers/statistics))
+* __probability__: Some probability functions ([repo(https://github.com/twgophers/probability))
+* __gradient-descent__: is a first-order iterative optimization algorithm for finding the minimum of a function ([repo(https://github.com/twgophers/gradient-descent))
+* __browser__: Utility for launching a Web browser ([repo(https://github.com/twgophers/browser))
+* __nvd3-go-template__: Templates for drawing graphics with nvd3 ([repo(https://github.com/twgophers/nvd3-go-template))
+

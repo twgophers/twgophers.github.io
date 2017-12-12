@@ -22,7 +22,7 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 ## Learning
 
 * __nameserver__: toy DNS server for learning purposes ([repo](https://github.com/twtiger/nameserver))
-* [__runas__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing  basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/runas)) _[Pages](https://thoughtworksinc.github.io/runas/) and source code symbols in Portuguese for didactic reasons._
+* [__sinais__](https://thoughtworksinc.github.io/runas/): extended TDD example introducing basic Go language features and the `testing` package ([repo](https://github.com/thoughtworksinc/sinais)) _[Pages](https://thoughtworksinc.github.io/sinais/) and source code symbols in Portuguese for didactic reasons. English version under construction._
 * __collections__: Collections in Go that are used for data science projects ([repo](https://github.com/twgophers/collections))
 * __linalg__: Basic linear algebra operations with vectors and matrices ([repo](https://github.com/twgophers/linalg))
 * __statistics__: A golang lib which implements the statistics chapter of data science from scratch ([repo](https://github.com/twgophers/statistics))

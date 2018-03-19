@@ -9,6 +9,7 @@ Please send pull requests to this [Github pages repo](https://github.com/twgophe
 * [__coyim__](https://coy.im) - a safe and secure chat client ([repo](https://github.com/twstrike/coyim))
 * [__Gauge__](http://getgauge.io/) - light weight cross-platform test automation with [business-friendly specification syntax](https://github.com/getgauge/gauge-example-ruby/blob/master/specs/customer.md) ([repo](https://github.com/getgauge/gauge))
 * [__Talisman__](https://thoughtworks.github.io/talisman/) - git pre-push hook tool to scan code for possible leaked SSH keys, authorization tokens, private keys etc. ([repo](https://github.com/thoughtworks/talisman))
+* __ebs-volumes__ - utility used to attach and detach AWS EBS volumes to / from an EC2 instance ([repo](https://github.com/sneakybeaky/ebs-volumes))
 
 
 ## Libraries
